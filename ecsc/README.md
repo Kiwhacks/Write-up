@@ -1,5 +1,5 @@
 
-# ECSC Write-up Team-France by kiwhacks 
+# ECSC Write-up Team-France
 
 # [+] Pwn
 ## Aarchibald
